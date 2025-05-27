@@ -13,5 +13,9 @@
 Общо взето "Линейна алгебра":
 https://immersivemath.com/ila/index.html
 
+# Свойства на векторната аритметика:
+![Untitled](https://github.com/user-attachments/assets/399a775d-e3e3-4fd3-a5c6-a2d963bd6653)
+
+
 Ако ви интересува малко предистория, можете да се запознаете и с това четиво:
 https://garlandus.co/OfGroupsAndMonads.html
